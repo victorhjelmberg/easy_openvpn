@@ -10,11 +10,11 @@ Functionality:
 - It's not possible to change IP_ADDRESS without removing and starting the container from scratch. This i plan to change in future versions.
 - Please reffer to easy_openvpn/docs/docker-compose.md on how to run the image
 
-### TODO:
+# TODO:
 - Change output when building the container to be more informing
 - Make it possible to use different IP_ADDRESSES on the same container
 - Vulnerability scan the server
 
-### Contribution
+# Contribution
 - Contributions are welcome.
 - Contributions could be: Penetration testing the server, coding TODO's or new features, fixing grammar.
